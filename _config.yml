@@ -2,9 +2,10 @@ title: "Small, Slow But Steady" # name of the site
 author: "EunBeen Kang" # name of site's author
 email: "river20s@naver.com" # email of site's author
 url: "https://river20s.github.io" # root address of the site
-baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  소소하게, 느리게 그러나 꾸준히
+  
 
 permalink: /:slug.html
 
