@@ -4,9 +4,9 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: 소소하게, 느리게, 그러나 꾸준히
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
+        url: https://github.com/river20s
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
