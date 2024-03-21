@@ -2,18 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info 
-    entries:
-      - title: 소소하게, 느리게, 그러나 꾸준히
-      - title: github repo
-        url: https://github.com/river20s
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: 공부한 것을 정리하는 블로그입니다.
+  - title: github 프로필
+      url: https://github.com/river20s
+    
+  - title: 전체 글
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: 더보기...
       show_more_url: archive.html
 
   - title: posts by category
@@ -23,8 +21,8 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+  # - title: rss
+  #  url: feed.xml
   
   - title: another list
     entries:
@@ -33,6 +31,3 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
