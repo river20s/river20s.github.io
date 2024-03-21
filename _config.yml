@@ -1,7 +1,7 @@
-title: "Small, Slow But Steady" # name of the site
-author: "EunBeen Kang" # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: "https://riggraz.dev" # root address of the site
+title: Small, Slow But Steady # name of the site
+author: EunBeen Kang # name of site's author
+email: river20s@naver.com # email of site's author
+url: "https://river20s.github.io" # root address of the site
 baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
