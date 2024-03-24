@@ -2,20 +2,30 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-
-  - title: 공부한 것을 정리하는 블로그입니다.
-  - title: about
+  - title: about me
     url: about
   - title: 佛祖保佑 永無BUG
     url: buddha
-    
   - title: 전체 글
     post_list:
       limit: 5
       show_more: true
       show_more_text: 더보기...
       show_more_url: archive.html
-
+  - title: ---
+  - title: CATEGORY
+  - title: SCHOOL LECTURE
+    post_list:
+      category: SCHOOL LECTURE
+      show_more: true
+      show_more_text: 더보기...
+      show_more_url: SCHOOL-LECTURE.html
+  - title: Security Threat Detection and Analysis
+    post_list:
+      category: Security Threat Detection and Analysis
+      show_more: true
+      show_more_text: 더보기...
+      show_more_url: Security-Threat-Detection-and-Analysis.html
   - title: MOYA LIST
     post_list:
       category: MOYA-LIST
@@ -23,13 +33,6 @@ entries:
       show_more_text: 더보기...
       show_more_url: MOYA-LIST.html
 
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
 
   # - title: rss
   #  url: feed.xml
