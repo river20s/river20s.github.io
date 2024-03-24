@@ -14,6 +14,14 @@ entries:
       show_more_text: 더보기...
       show_more_url: archive.html
 
+  - title: MOYA LIST
+    post_list:
+      category: MOYA-LIST
+      show_more: true
+      show_more_text: 더보기...
+      show_more_url: MOYA-LIST.html
+
+
   - title: posts by category
     post_list:
       category: example2
