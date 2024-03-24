@@ -15,13 +15,12 @@ title: About
 
 ---
 
+> [소소하게, 느리게 그러나 꾸준히!](https://www.imdb.com/title/tt17309864/)
 
-학번: 202254013
-
-이름: 강은빈
-
-이메일 1: river20s@naver.com
-
-이메일 2: eunbee.een@gamil.com
-
-좋아하는 것: 영화 감상, 고양이, 도서관
+| Item | Content |
+|------------|------------------------|
+| student number | 202254013 |
+| Name | Kang Eunbin |
+| E-mail 1 | river20s@naver.com |
+| E-mail 2 | eunbee.een@gmail.com |
+| one's favorites | watching movies, cats, libraries |
