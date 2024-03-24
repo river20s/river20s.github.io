@@ -4,8 +4,10 @@
 entries:
 
   - title: 공부한 것을 정리하는 블로그입니다.
-  - title: github 프로필
-    url: https://github.com/river20s
+  - title: about
+    url: about
+  - title: 佛祖保佑 永無BUG
+    url: buddha
     
   - title: 전체 글
     post_list:
@@ -32,10 +34,3 @@ entries:
   # - title: rss
   #  url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
