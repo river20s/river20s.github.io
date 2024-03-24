@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "first post"
+title: "1주차 강의 노트"
+category: [SCHOOL LECTURE, Security Threat Detection and Analysis]
 ---
 
 # Ch 1. 기초 정적분석 기법
