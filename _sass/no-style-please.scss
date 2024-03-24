@@ -35,6 +35,12 @@ body {
 
 .post-meta { text-align: right; }
 
+h1 {
+  background: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }
