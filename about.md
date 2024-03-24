@@ -23,4 +23,4 @@ title: About
 
 이메일 2: eunbee.een@gmail.com
 
-좋아하는 것: 영화 감상, 고양이, 도서관
+[GO TO G1THUB](https://github.com/river20s) 
