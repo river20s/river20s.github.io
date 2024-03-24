@@ -8,32 +8,10 @@ entries:
     url: buddha
   - title: 전체 글
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: 더보기...
       show_more_url: archive.html
-  - title: ---
-  - title: CATEGORY
-  - title: SCHOOL LECTURE
-    post_list:
-      category: SCHOOL LECTURE
-      show_more: true
-      show_more_text: 더보기...
-      show_more_url: SCHOOL-LECTURE.html
-  - title: Security Threat Detection and Analysis
-    post_list:
-      category: Security Threat Detection and Analysis
-      show_more: true
-      show_more_text: 더보기...
-      show_more_url: Security-Threat-Detection-and-Analysis.html
-  - title: MOYA LIST
-    post_list:
-      category: MOYA-LIST
-      show_more: true
-      show_more_text: 더보기...
-      show_more_url: MOYA-LIST.html
+  - title: Categories
+    url: categories.html
 
-
-  # - title: rss
-  #  url: feed.xml
-  
