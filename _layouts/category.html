@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{%-include back_link.html-%}
+
+<h1>{{ page.title }}</h1>
+
+{% assign posts_in_category = site.categories[page.category] %}
+<ul>
+{% for post in posts_in_category %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+  </li>
+{% endfor %}
+</ul>
