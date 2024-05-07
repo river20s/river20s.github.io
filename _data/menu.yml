@@ -10,7 +10,7 @@ entries:
     post_list:
       limit: 3
       show_more: true
-      show_more_text: 더보기...
+      show_more_text: -->
       show_more_url: archive.html
   - title: Categories
     url: categories.html
