@@ -4,14 +4,12 @@
 entries:
   - title: about me
     url: about
-  - title: 佛祖保佑 永無BUG
-    url: buddha
+
   - title: 전체 글
     post_list:
-      limit: 3
+      limit: 4
       show_more: true
       show_more_text: -->
       show_more_url: archive.html
-  - title: Categories
-    url: categories.html
-
+  - title: 佛祖保佑 永無BUG
+    url: buddha
