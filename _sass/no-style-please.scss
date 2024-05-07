@@ -26,8 +26,8 @@ html { height: 100%; }
 body {
   color: black;
   background-color: #f0f0f0; 
-  font-family: monospace;
-  font-size: 16px;
+  font-family: '돋움', 'Dotum', sans-serif;
+  font-size: 9px;
   line-height: 1.4;
   margin: 0;
   min-height: 100%;
@@ -73,14 +73,16 @@ table, th, td {
 }
 
 code {
+  font-family: 'Consolas', 'Courier New', monospace;
   font-size: 0.9em; 
-  color: #ff4500; 
-  background-color: #444444; 
+  color: white; 
+  background-color: black; 
   padding: 0.2em 0.4em;
   border-radius: 4px; 
 }
 
 div.highlighter-rouge code {
+  font-family: 'Consolas', 'Courier New', monospace;
   display: block;
   overflow-x: auto;
   white-space: pre-wrap;
