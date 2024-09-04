@@ -7,6 +7,14 @@
         {{ content }}
       </div>
     </main>
+      
+      <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/tags/">Tags</a></li> <!-- 태그 페이지로 이동 -->
+          </ul>
+      </nav>
+
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}
